@@ -1499,13 +1499,13 @@ button:hover {
 
   .interview-title {
     width: 325px;
-    padding-left: 5px;
+    padding-left: 1px;
   }
 
   .interview-link {
     font-size: 35px;
     line-height: 40px;
-    margin-top: 25px;
+    margin-top: 5px;
   }
 
   .interview-link::after {
@@ -1515,7 +1515,7 @@ button:hover {
 
   .interview-description {
     font-size: 15px;
-    margin-top: 25px;
+    margin-top: 5px;
   }
 
   .stuff {
